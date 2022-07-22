@@ -1,0 +1,15 @@
+C:\Users\Marcelo Navarro\source\repos\ApiTestSmartMed\DataExchange\bin\Debug\net5.0\DataExchange.deps.json
+C:\Users\Marcelo Navarro\source\repos\ApiTestSmartMed\DataExchange\bin\Debug\net5.0\DataExchange.dll
+C:\Users\Marcelo Navarro\source\repos\ApiTestSmartMed\DataExchange\bin\Debug\net5.0\ref\DataExchange.dll
+C:\Users\Marcelo Navarro\source\repos\ApiTestSmartMed\DataExchange\bin\Debug\net5.0\DataExchange.pdb
+C:\Users\Marcelo Navarro\source\repos\ApiTestSmartMed\DataExchange\bin\Debug\net5.0\Entities.dll
+C:\Users\Marcelo Navarro\source\repos\ApiTestSmartMed\DataExchange\bin\Debug\net5.0\Entities.pdb
+C:\Users\Marcelo Navarro\source\repos\ApiTestSmartMed\DataExchange\obj\Debug\net5.0\DataExchange.csproj.AssemblyReference.cache
+C:\Users\Marcelo Navarro\source\repos\ApiTestSmartMed\DataExchange\obj\Debug\net5.0\DataExchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo Navarro\source\repos\ApiTestSmartMed\DataExchange\obj\Debug\net5.0\DataExchange.AssemblyInfoInputs.cache
+C:\Users\Marcelo Navarro\source\repos\ApiTestSmartMed\DataExchange\obj\Debug\net5.0\DataExchange.AssemblyInfo.cs
+C:\Users\Marcelo Navarro\source\repos\ApiTestSmartMed\DataExchange\obj\Debug\net5.0\DataExchange.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo Navarro\source\repos\ApiTestSmartMed\DataExchange\obj\Debug\net5.0\DataExchange.csproj.CopyComplete
+C:\Users\Marcelo Navarro\source\repos\ApiTestSmartMed\DataExchange\obj\Debug\net5.0\DataExchange.dll
+C:\Users\Marcelo Navarro\source\repos\ApiTestSmartMed\DataExchange\obj\Debug\net5.0\ref\DataExchange.dll
+C:\Users\Marcelo Navarro\source\repos\ApiTestSmartMed\DataExchange\obj\Debug\net5.0\DataExchange.pdb
